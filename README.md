@@ -1,5 +1,3 @@
-# hybrid-cloud-akamai
-
-Hybrid Cloud 2022
+# Hybrid Cloud 2022
 
 ![](./banner.webp)
